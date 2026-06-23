@@ -23,3 +23,7 @@ Thumbs.db
 # 임시 파일
 *.tmp
 *.log
+
+#깃 이그노어
+.gitignore
+
